@@ -1,0 +1,4 @@
+{
+  "train_data_dir": "/datasets/centerart_model/sgdf/train",
+  "valid_data_dir": "/datasets/centerart_model/sgdf/valid"
+}

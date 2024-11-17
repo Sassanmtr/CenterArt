@@ -1,0 +1,7 @@
+{
+    "num_workers": 4,
+    "batch_size": 2,
+    "points_per_obj": 12500,
+    "num_train_objects": 20,
+    "accelerator": "gpu"
+}
